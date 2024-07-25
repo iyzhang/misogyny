@@ -8,8 +8,7 @@ on Kate Manne's book on misogyny in the framework of moral philosophy
 and my own experiences. Please feel free to create tags for issues
 that you've experienced and this blog post is helping you recognize.
 
-## The Moral Implications of Being a Moderately Successful Computer
-Scientist and Woman
+## The Moral Implications of Being a Moderately Successful Computer Scientist and Woman
 
 I recently reached a few high points in my career that coincided, not
 coincidentally, with some of the worst harassment of my life. It made
