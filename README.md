@@ -5,7 +5,7 @@ safe space to track incidents in whatever way they feel
 comfortable. If you'd like to be anonymous, simply create a new GitHub
 handle or use [GitMask](https://www.gitmask.com). 
 
-**Please feel free to contribute regardless of your gender identity! We welcome bystander reports as well as first-hand experiences.**
+**Please contribute regardless of your gender identity! Bystander reports can be equally as powerful and a good way for men to discuss how to be allies.**
 
 This project is based on a recent blog post that I wrote based
 on Kate Manne's book on misogyny in the framework of moral philosophy
