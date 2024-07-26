@@ -3,7 +3,11 @@
 Misogyny in tech is a huge issue for women. I've created this as a
 safe space to track incidents in whatever way they feel
 comfortable. If you'd like to be anonymous, simply create a new GitHub
-handle. This project is based on a recent blog post that I wrote based
+handle or use [GitMask](https://www.gitmask.com). 
+
+**Please feel free to contribute regardless of your gender identity! We welcome bystander reports as well as first-hand experiences.**
+
+This project is based on a recent blog post that I wrote based
 on Kate Manne's book on misogyny in the framework of moral philosophy
 and my own experiences. Please feel free to create tags for issues
 that you've experienced and this blog post is helping you recognize.
