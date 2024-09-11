@@ -91,7 +91,7 @@ it has even worse implications when it comes to harassment. If we
 penalize a man for harassing a woman in computer science, we're told we
 are "ruining his life", but if a woman leaves because of harassment,
 she just "couldn't cut it." Why? This view assumes a moral framework
-where men are *entitled* to a career as a computer scientist or
+where men are <u>*entitled*</u> to a career as a computer scientist or
 professor, while women are generously being allowed the same thing,
 which can be taken away at any time.
 
