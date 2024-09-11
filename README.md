@@ -22,9 +22,9 @@ misogyny as technical excellence (I've garnered quite a CV in both),
 and how I have struggled to explain to others my experience. This
 blog post builds on previous work, like [Kathryn McKinley's seminal
 post](https://www.sigarch.org/what-happens-to-us-does-not-happen-to-most-of-you/)
-[1] and on Kate Manne's books [Down
-Girl](http://www.katemanne.net/down-girl.html) [2] and
-[Entitled](http://www.katemanne.net/entitled.html) [3], which frame
+[1] and on Kate Manne's books [*Down
+Girl*](http://www.katemanne.net/down-girl.html) [2] and
+[*Entitled*](http://www.katemanne.net/entitled.html) [3], which frame
 misogyny through the lens of moral philosophy.
 
 Kate defines misogyny as the enforcement branch of the patriarchy.
@@ -97,11 +97,12 @@ which can be taken away at any time.
 
 ## Moral Fallacy #2: Woman != Experts
 
-As anyone who's read Entitled -- or ever used the Internet -- knows,
+As anyone who's read *Entitled* [3] -- or ever used the Internet -- knows,
 some men love to be experts. Men were born to pontificate, and women
 to listen. Not surprisingly, I have run into an excess of this kind of
 man. If you want an entertaining description of this experience, read
-Men Explain Things to Me.
+[*Men Explain Things to
+Me*](https://www.haymarketbooks.org/books/691-men-explain-things-to-me) [4].
 
 What happens when a woman is an expert and a man is not? -- a
 situation that I find myself in frequently. Then misogyny steps in to
@@ -134,7 +135,7 @@ self-regulation, *I* must be the problem. Indeed, one of the things
 that women are responsible for in our patriarchal society is
 [managing men's
 emotions](https://medium.com/fearless-she-wrote/i-am-not-responsible-for-the-anger-of-men-eabf35161886)
-[4].
+[5].
 
 While men *claim* to be unemotionally seeking scientific truth in
 research, I have never seen a woman so personally invested and
@@ -158,8 +159,8 @@ woman -- which is a really mature reaction -- to actively harassing her.
 Many of the men that I interact with have been raised by wonderful
 mothers that taught them to be supportive husbands, and some of them
 even have daughters that taught them that my plight is real. However,
-as the Entitled book notes: many men have been and feel that they have
-a right to be adored by the women in their lives. It sounds
+as the *Entitled* [3] book notes: many men have been and feel that they
+have a right to be adored by the women in their lives. It sounds
 ridiculous, but I am not their mother or daughter, and I do not owe
 them anything. However, since so many men *only* interact with women
 in this way, perhaps it isn't surprising that they mistake me for one
@@ -230,29 +231,31 @@ not needed because we "trust" everyone), the default is simply to
 reinforce the patriarchy.
 
 Men, do better! If you are in a position of power and want to be an
-ally, educate yourself by reading Entitled [3] and doing [training on
+ally, educate yourself by reading *Entitled* [3] and doing [training on
 inclusive
 governance](https://github.com/microsoft/OSPO/tree/main/learning_resources/2022-code-of-conduct-workshop)
-[5]. Even if you think you are a nice guy, there are plenty of other guys
+[6]. Even if you think you are a nice guy, there are plenty of other guys
 out there that are not so nice and dealing with the aftermath is much
 worse than preventing the harassment in the first place.
 
 ## References
 
 1. [What Happens To Us Does Not Happen To Most of
-   You](https://www.google.com/search?client=safari&rls=en&q=kathryn+mckinley+what+happens+to+you&ie=UTF-8&oe=UTF-8).
-   Kathryn S. McKinley. February 2018.
-2. [Down Girl: The Logic of
-   Misogyny](http://www.katemanne.net/down-girl.html). Kate Manne. 2018.
-3. [Entitled: How Male Privilege Hurts
-   Women](http://www.katemanne.net/entitled.html). Kate Manne. August
-   2020.
-4. [I Am Not Responsible for the Anger of
+   You](https://www.sigarch.org/what-happens-to-us-does-not-happen-to-most-of-you/).
+   Kathryn S. McKinley, February 2018.
+2. [*Down Girl: The Logic of
+   Misogyny*](http://www.katemanne.net/down-girl.html). Kate Manne, 2018.
+3. [*Entitled: How Male Privilege Hurts
+   Women*](http://www.katemanne.net/entitled.html). Kate Manne, August 2020.
+4. [*Men Explain Things to
+   Me*](https://www.haymarketbooks.org/books/691-men-explain-things-to-me).
+   Rebecca Solnit, 2014.
+5. [I Am Not Responsible for the Anger of
    Men](https://medium.com/fearless-she-wrote/i-am-not-responsible-for-the-anger-of-men-eabf35161886).
-   Caitlin Knudsen. June 2019
-5. [Inclusive Governance: Codes of Conduct
+   Caitlin Knudsen, June 2019.
+6. [Inclusive Governance: Codes of Conduct
    Workshop](https://github.com/microsoft/OSPO/tree/main/learning_resources/2022-code-of-conduct-workshop).
-   Emma Irwin. 2022.
+   Emma Irwin, 2022.
 
 ## Acknowledgments
 
