@@ -63,7 +63,7 @@ harassment and misogyny.
 ## Moral Fallacy #1: Woman != Programmer
 
 Before women even write a single line of code, they are already at a
-disadvantage: when I was 6 years old, no one would look at my pigtails
+disadvantage; when I was 6 years old, no one would look at my pigtails
 and white Mary Janes and predict that I would grow up to be one of the
 top operating systems researchers in the world. However, this exact
 prediction was so comically common for white men at MIT that my
@@ -72,14 +72,14 @@ on Paxos.
 
 Of course, this prediction continues even while I *am* one of the top
 operating systems researchers in the world. If only I got a penny for
-every time someone said: you don't *look* like a computer scientist, I
+every time someone said "you don't *look* like a computer scientist", I
 could be Mackenzie Scott without having to marry an asshole. This
-comment is usually posed as a compliment, which I should graciously receive.
+comment is usually posed as a compliment which I should graciously receive.
 
 But it's not a compliment. I don't look like myself? I'm not a
 computer scientist? This mental dissonance is jarring. It feels like
-someone keeps slapping me *at work* and saying: Wake up, this was all
-a dream, you didn't actually publish any SOSP papers this year!
+someone keeps slapping me *at work* and saying: "Wake up, this was all
+a dream, you didn't actually publish any SOSP papers this year!"
 
 After enough people question your ability to do *your own job* based
 on something as nonsensical as how you look, you really start to
@@ -104,9 +104,9 @@ man. If you want an entertaining description of this experience, read
 [*Men Explain Things to
 Me*](https://www.haymarketbooks.org/books/691-men-explain-things-to-me) [4].
 
-What happens when a woman is an expert and a man is not? — a
-situation that I find myself in frequently. Then misogyny steps in to
-enforce what the men perceive to be the societal (and moral) norms.
+What happens when a woman is an expert and a man is not? (A situation
+that I find myself in frequently.) Then, misogyny steps in to enforce
+what the men perceive to be the societal (and moral) norms.
 Not only do I have the gall to not look like a computer scientist, I
 have the gall to actually be better at it than them. This is
 obviously completely unacceptable and my fault.
@@ -120,7 +120,7 @@ themselves harassed by their students. For example, in a recent
 discussion with a faculty friend, she mentioned that she has received
 numerous reviews that her voice is too high pitched. A physical trait
 that she has no control over and no impact on her teaching abilities
-is somehow a point of criticism. And this despite the fact that these
+is somehow a point of criticism. And this is despite the fact that these
 professors *quite literally have control over these men's careers*!
 The view that women can't be experts is so strongly held that it causes
 some men to repeatedly harass the person attempting to teach them the
@@ -144,7 +144,7 @@ allowed to use "top computer scientist" as their entire identity since
 birth, we are better able to separate our research ideas from
 ourselves and coldly discuss their pros and cons. Or perhaps a
 lifetime of being told that it is our job to regulate our own emotions
-as well as those of the men around us has trained us to do pure
+*as well as* those of the men around us has trained us to do pure
 science without messy emotions. But of course women are hysterical,
 and men are just passionate.
 
@@ -165,8 +165,8 @@ ridiculous, but I am not their mother or daughter, and I do not owe
 them anything. However, since so many men *only* interact with women
 in this way, perhaps it isn't surprising that they mistake me for one
 of these roles. In our society, men are generally not friends with
-women (unless they have been friend-zoned and worthy of pity), so the
-only models that men have for how to interact with women come from
+women (unless they have been friend-zoned and are worthy of pity), so
+the only models that men have for how to interact with women come from
 experiences with their mothers, wives and daughters.
 
 Of course, the most pernicious form of these feelings is sexual
@@ -175,12 +175,12 @@ romantic overtures of various forms, ranging from crushes to asking
 out on dates and even to stalking. I have always been perplexed by
 this situation because I do not see my workplace as a dating pool.
 But worse than this, because the only experiences that many men have
-for interacting with women is with family, they expect *unconditional*
-love or admiration and women must act *flattered* to receive it.
+interacting with women are with family, they expect *unconditional*
+love or admiration and that women *must be* flattered to receive it.
 
 For the women, this situation is worse than insane. It would be like a
 random person on the street saying that they are part of your family
-and going home with you. But when you do not give them the love or
+and going home with you. But when you don't give them the love or
 respect that they think they innately deserve, the men will feel
 rejected and lash out. It may even trigger a feeling of rejection
 that they have had with family members, but I'm not a Freudian
