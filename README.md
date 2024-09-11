@@ -3,7 +3,7 @@
 Misogyny in tech is a huge issue for women. I've created this as a
 safe space to track incidents in whatever way they feel
 comfortable. If you'd like to be anonymous, simply create a new GitHub
-handle or use [GitMask](https://www.gitmask.com). 
+handle or use [GitMask](https://www.gitmask.com).
 
 **Please contribute regardless of your gender identity! Bystander reports can be equally as powerful and a good way for men to discuss how to be allies.**
 
@@ -18,7 +18,7 @@ I recently reached a few high points in my career that coincided, not
 coincidentally, with some of the worst harassment of my life. It made
 me reflect on how my career has been defined as much in terms of
 misogyny as technical excellence (I've garnered quite a CV in both),
-and how I have struggled to explain to others my experience.  This
+and how I have struggled to explain to others my experience. This
 blog post builds on previous work, like [Kathryn McKinley's seminal
 post](https://www.sigarch.org/what-happens-to-us-does-not-happen-to-most-of-you/)
 [1]
@@ -44,10 +44,10 @@ using the same framework of what is acceptable "moral" behavior and
 what is not. Just like in [distributed
 systems](https://irenezhang.net/blog/2016/01/11/consistency.html), we
 can't make progress on this topic when there is disagreement on the
-underlying system model.  These beliefs are so deeply held that,
+underlying system model. These beliefs are so deeply held that,
 consciously or not, when people meet someone who challenges their
 beliefs, the cognitive dissonance can cause them to do something truly
-harmful.  For example, my very *existence* as a moderately young,
+harmful. For example, my very *existence* as a moderately young,
 moderately successful computer scientist threatens some men's sense of
 identity, thus making them uncomfortable and/or lash out. But if a
 successful woman in computer science makes men in our community
@@ -65,25 +65,25 @@ harassment and misogyny.
 Before women even write a single line of code, they are already at a
 disadvantage: when I was 6 years old, no one would look at my pigtails
 and white Mary Janes and predict that I would grow up to be one of the
-top operating systems researchers in the world.  However, this exact
+top operating systems researchers in the world. However, this exact
 prediction was so comically common for white men at MIT that my
 husband and I joked that we should sell a line of neonatal audio books
 on Paxos.
 
 Of course, this prediction continues even while I *am* one of the top
-operating systems researchers in the world.  If only I got a penny for
+operating systems researchers in the world. If only I got a penny for
 every time someone said: you don't *look* like a computer scientist, I
-could be Mackenzie Scott without having to marry an asshole.  This
+could be Mackenzie Scott without having to marry an asshole. This
 comment is usually posed as a compliment, which I should graciously receive.
 
 But it's not a compliment. I don't look like myself? I'm not a
 computer scientist? This mental dissonance is jarring. It feels like
-someone keeps slapping me *at work* and saying: Wake up, this was all 
+someone keeps slapping me *at work* and saying: Wake up, this was all
 a dream, you didn't actually publish any SOSP papers this year!
 
 After enough people question your ability to do *your own job* based
 on something as nonsensical as how you look, you really start to
-question your own sanity.  When you are expected to *thank people for
+question your own sanity. When you are expected to *thank people for
 the privilege*, you know you've entered the Twilight Zone.
 
 Not only is this setting absolutely bonkers for women working in tech,
@@ -104,25 +104,25 @@ man. If you want an entertaining description of this experience, read
 Men Explain Things to Me.
 
 What happens when a woman is an expert and a man is not? -- a
-situation that I find myself in frequently.  Then misogyny steps in to
+situation that I find myself in frequently. Then misogyny steps in to
 enforce what the men perceive to be the societal (and moral) norms.
 Not only do I have the gall to not look like a computer scientist, I
-have the gall to actually be better at it than them.  This is
+have the gall to actually be better at it than them. This is
 obviously completely unacceptable and my fault.
 
 Now imagine what happens to the average woman professor who must stand
-up every day and perform this act in the insane asylum.  If any of
+up every day and perform this act in the insane asylum. If any of
 them last long enough to inspire other women to join the field, they
 (the women professors and students) are rapidly disabused of this idea
-by the men in the classes that they teach.  Yes, even professors find
-themselves harassed by their students.  For example, in a recent
+by the men in the classes that they teach. Yes, even professors find
+themselves harassed by their students. For example, in a recent
 discussion with a faculty friend, she mentioned that she has received
-numerous reviews that her voice is too high pitched.  A physical trait
+numerous reviews that her voice is too high pitched. A physical trait
 that she has no control over and no impact on her teaching abilities
-is somehow a point of criticism.  And this despite the fact that these
+is somehow a point of criticism. And this despite the fact that these
 professors *quite literally have control over these men's careers*!
 The view that women can't be experts is so strongly held that it causes
-some men to repeatedly harass the person attempting to teach them the 
+some men to repeatedly harass the person attempting to teach them the
 things that they need to succeed.
 
 ## Moral Fallacy #3: Woman == Good Feelings
@@ -130,7 +130,7 @@ things that they need to succeed.
 Now that I have managed to make men feel embarrassed and insecure,
 they blame these feelings on me. No one else has made them feel this
 way before, and because men are famously good at emotional
-self-regulation, *I* must be the problem.  Indeed, one of the things
+self-regulation, *I* must be the problem. Indeed, one of the things
 that women are responsible for in our patriarchical society is
 [managing men's
 emotions](https://medium.com/fearless-she-wrote/i-am-not-responsible-for-the-anger-of-men-eabf35161886)
@@ -141,7 +141,7 @@ research, I have never seen a woman so personally invested and
 *emotional* about a research idea. Perhaps because women are not
 allowed to use "top computer scientist" as their entire identity since
 birth, we are better able to separate our research ideas from
-ourselves and coldly discuss their pros and cons.  Or perhaps a
+ourselves and coldly discuss their pros and cons. Or perhaps a
 lifetime of being told that it is our job to regulate our own emotions
 as well as those of the men around us has trained us to do pure
 science without messy emotions. But of course women are hysterical,
@@ -157,13 +157,13 @@ woman -- which is a really mature reaction -- to actively harassing her.
 
 Many of the men that I interact with have been raised by wonderful
 mothers that taught them to be supportive husbands, and some of them
-even have daughters that taught them that my plight is real.  However,
+even have daughters that taught them that my plight is real. However,
 as the Entitled book notes: many men have been and feel that they have
-a right to be adored by the women in their lives.  It sounds
+a right to be adored by the women in their lives. It sounds
 ridiculous, but I am not their mother or daughter, and I do not owe
 them anything. However, since so many men *only* interact with women
 in this way, perhaps it isn't surprising that they mistake me for one
-of these roles.  In our society, men are generally not friends with
+of these roles. In our society, men are generally not friends with
 women (unless they have been friend-zoned and worthy of pity), so the
 only models that men have for how to interact with women come from
 experiences with their mothers, wives and daughters.
@@ -171,17 +171,17 @@ experiences with their mothers, wives and daughters.
 Of course, the most pernicious form of these feelings is sexual
 harassment, when men expect women in a work setting to be open to
 romantic overtures of various forms, ranging from crushes to asking
-out on dates and even to stalking.  I have always been perplexed by
+out on dates and even to stalking. I have always been perplexed by
 this situation because I do not see my workplace as a dating pool.
 But worse than this, because the only experiences that many men have
 for interacting with women is with family, they expect *unconditional*
-love or admiration and women must act *flattered* to receive it.  
+love or admiration and women must act *flattered* to receive it.
 
 For the women, this situation is worse than insane. It would be like a
 random person on the street saying that they are part of your family
-and going home with you.  But when you do not give them the love or
+and going home with you. But when you do not give them the love or
 respect that they think they innately deserve, the men will feel
-rejected and lash out.  It may even trigger a feeling of rejection
+rejected and lash out. It may even trigger a feeling of rejection
 that they have had with family members, but I'm not a Freudian
 therapist, so I shouldn't have to unpack that.
 
@@ -191,7 +191,7 @@ It is not for nothing that computer science as a field shapes our
 world today. All of our titans of industry are computer scientists and
 none of them are women. In fact, the women that contributed to their
 success, like Melinda Gates, must be dismissed in service to
-constructing a myth and religion around these men.  As long as
+constructing a myth and religion around these men. As long as
 computer science retains prestige, men will feel entitled to it and
 women not. There has been mountains written about this phenomena (and
 how women are only allowed to succeed in perceived lower prestige
@@ -211,12 +211,12 @@ Of course, the other side of the coin here is that as I get more
 senior, I experience more frequent and even worse harassment. As a
 relatively well-connected and successful member of our research
 community, I have various ways to deal with this harassment, but I
-shouldn't have to spend so much of my time and energy on it.  Even
+shouldn't have to spend so much of my time and energy on it. Even
 worse, I am now pulled into other situations where harassment is
 present because I am expected, as a senior member of the
 community, to help deal with these incidents. And of course, these
 episodes are increasingly becoming worse as I advance in my career--
-they inherently must reach horrible levels of severity to require my 
+they inherently must reach horrible levels of severity to require my
 involvement. So even gaining power as a woman comes with a traumatic cost.
 
 ## Conclusion
@@ -224,7 +224,7 @@ involvement. So even gaining power as a woman comes with a traumatic cost.
 Being a woman in tech is insane. We do not work in the same
 moral system model as most of the people that we interact with daily
 and we can't talk about it, because when we do, we are the ones
-portrayed as crazy or hysterical.  In situations where we assume that
+portrayed as crazy or hysterical. In situations where we assume that
 people will behave in rational ways (e.g., when codes of conduct are
 not needed because we "trust" everyone), the default is simply to
 reinforce the patriarchy.
@@ -258,4 +258,3 @@ worse than preventing the harassment in the first place.
 
 I'd like to thank the women of the UW Syslab for their feedback, Simon
 Peter and Dan Ports.
-
