@@ -259,5 +259,5 @@ worse than preventing the harassment in the first place.
 
 ## Acknowledgments
 
-I'd like to thank the women of the UW Syslab for their feedback, Simon
-Peter and Dan Ports.
+I'd like to thank the women of the UW Syslab for their feedback, as well as
+Simon Peter and Dan Ports.
