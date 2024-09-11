@@ -30,7 +30,7 @@ misogyny through the lens of moral philosophy.
 Kate defines misogyny as the enforcement branch of the patriarchy.
 While sexism is a set of beliefs, misogyny is a set of actions. As
 such, it is much more damaging to women. Worse, misogyny enforces a
-patriarchical worldview that *the majority of the world holds as the
+patriarchal worldview that *the majority of the world holds as the
 morally correct one*. Thus, when women break this norm (i.e., by
 demanding authority, recognition, space and not providing goods that
 men feel entitled to like domestic, emotional and mental labor), they
@@ -131,7 +131,7 @@ Now that I have managed to make men feel embarrassed and insecure,
 they blame these feelings on me. No one else has made them feel this
 way before, and because men are famously good at emotional
 self-regulation, *I* must be the problem. Indeed, one of the things
-that women are responsible for in our patriarchical society is
+that women are responsible for in our patriarchal society is
 [managing men's
 emotions](https://medium.com/fearless-she-wrote/i-am-not-responsible-for-the-anger-of-men-eabf35161886)
 [4].
@@ -244,7 +244,7 @@ worse than preventing the harassment in the first place.
    You](https://www.google.com/search?client=safari&rls=en&q=kathryn+mckinley+what+happens+to+you&ie=UTF-8&oe=UTF-8).
    Kathryn S. McKinley. February 2018.
 2. [Down Girl: The Logic of
-   Misogyn](http://www.katemanne.net/down-girl.html). Kate Manne. 2018.
+   Misogyny](http://www.katemanne.net/down-girl.html). Kate Manne. 2018.
 3. [Entitled: How Male Privilege Hurts
    Women](http://www.katemanne.net/entitled.html). Kate Manne. August
    2020.
