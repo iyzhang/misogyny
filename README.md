@@ -36,7 +36,7 @@ demanding authority, recognition, space and not providing goods that
 men feel entitled to like domestic, emotional and mental labor), they
 are *in the wrong*. The men are seen as the victims, while the women
 enduring the misogyny are the bad actors. This viewpoint leads to
-justification of a number of vile behaviors perpetuated by men -- even
+justification of a number of vile behaviors perpetuated by men — even
 those men that claim to support and love women.
 
 It is difficult to even discuss these issues because both sides are not
@@ -97,14 +97,14 @@ which can be taken away at any time.
 
 ## Moral Fallacy #2: Woman != Experts
 
-As anyone who's read *Entitled* [3] -- or ever used the Internet -- knows,
+As anyone who's read *Entitled* [3] — or ever used the Internet — knows,
 some men love to be experts. Men were born to pontificate, and women
 to listen. Not surprisingly, I have run into an excess of this kind of
 man. If you want an entertaining description of this experience, read
 [*Men Explain Things to
 Me*](https://www.haymarketbooks.org/books/691-men-explain-things-to-me) [4].
 
-What happens when a woman is an expert and a man is not? -- a
+What happens when a woman is an expert and a man is not? — a
 situation that I find myself in frequently. Then misogyny steps in to
 enforce what the men perceive to be the societal (and moral) norms.
 Not only do I have the gall to not look like a computer scientist, I
@@ -152,7 +152,7 @@ Since men do not know how to process these emotions, they lash out at
 the women that caused them. The women are the ones committing the
 wrong in their moral framework, so therefore they deserve to be
 punished. This punishment can range from refusing to speak to the
-woman -- which is a really mature reaction -- to actively harassing her.
+woman — which is a really mature reaction — to actively harassing her.
 
 ## Moral Fallacy #4: Women == Love
 
@@ -216,7 +216,7 @@ shouldn't have to spend so much of my time and energy on it. Even
 worse, I am now pulled into other situations where harassment is
 present because I am expected, as a senior member of the
 community, to help deal with these incidents. And of course, these
-episodes are increasingly becoming worse as I advance in my career--
+episodes are increasingly becoming worse as I advance in my career —
 they inherently must reach horrible levels of severity to require my
 involvement. So even gaining power as a woman comes with a traumatic cost.
 
