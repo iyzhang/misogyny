@@ -5,7 +5,8 @@ safe space to track incidents in whatever way they feel
 comfortable. If you'd like to be anonymous, simply create a new GitHub
 handle or use [GitMask](https://www.gitmask.com).
 
-**Please contribute regardless of your gender identity! Bystander reports can be equally as powerful and a good way for men to discuss how to be allies.**
+**Please contribute regardless of your gender identity! Bystander reports can
+be equally as powerful and a good way for men to discuss how to be allies.**
 
 This project is based on a recent blog post that I wrote based
 on Kate Manne's book on misogyny in the framework of moral philosophy
@@ -21,8 +22,7 @@ misogyny as technical excellence (I've garnered quite a CV in both),
 and how I have struggled to explain to others my experience. This
 blog post builds on previous work, like [Kathryn McKinley's seminal
 post](https://www.sigarch.org/what-happens-to-us-does-not-happen-to-most-of-you/)
-[1]
-and on Kate Manne's books [Down
+[1] and on Kate Manne's books [Down
 Girl](http://www.katemanne.net/down-girl.html) [2] and
 [Entitled](http://www.katemanne.net/entitled.html) [3], which frame
 misogyny through the lens of moral philosophy.
@@ -233,8 +233,7 @@ Men, do better! If you are in a position of power and want to be an
 ally, educate yourself by reading Entitled [3] and doing [training on
 inclusive
 governance](https://github.com/microsoft/OSPO/tree/main/learning_resources/2022-code-of-conduct-workshop)
-[5].
-Even if you think you are a nice guy, there are plenty of other guys
+[5]. Even if you think you are a nice guy, there are plenty of other guys
 out there that are not so nice and dealing with the aftermath is much
 worse than preventing the harassment in the first place.
 
@@ -248,11 +247,12 @@ worse than preventing the harassment in the first place.
 3. [Entitled: How Male Privilege Hurts
    Women](http://www.katemanne.net/entitled.html). Kate Manne. August
    2020.
-4. [I Am Not Responsible for the Anger of Men](https://medium.com/fearless-she-wrote/i-am-not-responsible-for-the-anger-of-men-eabf35161886). Caitlin
-   Knudsen. June 2019
+4. [I Am Not Responsible for the Anger of
+   Men](https://medium.com/fearless-she-wrote/i-am-not-responsible-for-the-anger-of-men-eabf35161886).
+   Caitlin Knudsen. June 2019
 5. [Inclusive Governance: Codes of Conduct
-   Workshop](https://github.com/microsoft/OSPO/tree/main/learning_resources/2022-code-of-conduct-workshop). Emma
-   Irwin. 2022.
+   Workshop](https://github.com/microsoft/OSPO/tree/main/learning_resources/2022-code-of-conduct-workshop).
+   Emma Irwin. 2022.
 
 ## Acknowledgments
 
