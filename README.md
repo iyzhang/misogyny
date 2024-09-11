@@ -60,7 +60,7 @@ will highlight the fallacies that lead to women (1) leaving tech, (2)
 generally being anxious in our society, and (3) experiencing horrific
 harassment and misogyny.
 
-### Moral Fallacy #1: Woman != Programmer
+## Moral Fallacy #1: Woman != Programmer
 
 Before women even write a single line of code, they are already at a
 disadvantage: when I was 6 years old, no one would look at my pigtails
